@@ -10,3 +10,5 @@ c = 3
 d = a + b + c
 
 print(d)
+print(b)
+print(b,b)
