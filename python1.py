@@ -14,3 +14,6 @@ print(b)
 print(b,b)
 
 #this is just a change to be added to the github thingy
+
+user = input("what is the users name?")
+print ("the selected username is",user)
