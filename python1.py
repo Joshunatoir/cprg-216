@@ -28,3 +28,10 @@ if user == "admin":
 else:
     print("u are not an andmim")
     print("u cant do anything!")
+
+q1 = input ("do you like food? Y/N")
+
+if q1 == Y or y:
+    print("good, good, you should")
+else: 
+    print("fool, you should enjoy the main part of life")
