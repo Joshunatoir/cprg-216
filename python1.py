@@ -17,3 +17,14 @@ print(b,b)
 
 user = input("what is the users name?")
 print ("the selected username is",user)
+
+pswrd = input("whats ur password")
+print("Password accepted:********")
+
+if user == "admin":
+    print("welcome admin")
+    print("you now can no longer do anything with this program")
+
+else:
+    print("u are not an andmim")
+    print("u cant do anything!")
