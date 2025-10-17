@@ -22,7 +22,7 @@ while continue_program == "y":
 
     average = additioned/divisor
 
-    
+    g
     print ("this is the average: ", average)
     
 
